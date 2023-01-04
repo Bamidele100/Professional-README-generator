@@ -1,0 +1,22 @@
+{
+  "name": "professional-readme-generator",
+  "version": "8.2.4",
+  "description": "## Your Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "Professional-README-generator"
+  },
+  "keywords": [
+    "README"
+  ],
+  "author": "Bamidele",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
